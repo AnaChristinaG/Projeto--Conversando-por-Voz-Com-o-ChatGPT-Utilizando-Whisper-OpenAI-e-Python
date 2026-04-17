@@ -63,4 +63,4 @@ Demonstrar a integração entre tecnologias de voz (Speech-to-Text e Text-to-Spe
 
 ## 👩‍💻 Autora
 
-Ana Christina
+Ana Christina Gonçalves
